@@ -1,2 +1,0 @@
-# KPS
-Komunalinių paslaugų sistema
